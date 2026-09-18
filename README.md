@@ -16,7 +16,7 @@ grepCount is based on the functionality of:
 grep (searches for matching text)
 wc (counts the number of matches)
 
-
+Section 2 — AI‑Assisted Programming
 
 What I Asked AI
 
