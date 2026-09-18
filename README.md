@@ -1,7 +1,7 @@
 Section 1 — Command Description
 What the Tool Does
 
-grepCount is a command-line tool that searches a file for a specific word or pattern, displays all matching lines, and shows the total number of matches found.
+grepCount is a command that combines grep and wc. It searches a file for a  word or phrase, shows all the matching lines and shows the total number of matches found.
 
 How to Run It
 node grepCount.js <PATTERN> <FILENAME>
